@@ -1,0 +1,25 @@
+orders 
+- customer name
+- customer phone number
+- customer location
+- Number of baskets
+- status
+- Action 
+
+Favorites
+- Name 
+- phone number
+- location 
+- Number of orders (ordered by the number of orders)
+
+Admin
+- Name 
+- Email
+- Phone number
+- Action 
+
+Customers
+- Name 
+- phone number
+- location 
+- Number of orders (order by date created)
